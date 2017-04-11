@@ -54,6 +54,10 @@ public class Monitor
          */
     public synchronized void pickUp(final int piTID)
     {
+        // calculate the adjacent chopsticks' positions
+        // from the philosopher's seat number.
+        // wait for the chopsticks to be free, then set
+        // their status to not free
         int n = piTID - 1;
         int n_1 = (n == 0) ? piNumberOfChopsticks - 1 : n - 1;
         while(!chopsticksFree[n] || !chopsticksFree[n_1]) {
@@ -72,6 +76,9 @@ public class Monitor
      */
     public synchronized void putDown(final int piTID)
     {
+        // calculate the adjacent chopsticks' positions
+        // from the philosopher's seat number.
+        // set the chopsticks free & wake all other threads.
         int n = piTID - 1;
         int n_1 = (n == 0) ? piNumberOfChopsticks - 1 : n - 1;
         chopsticksFree[n] = true;
@@ -85,6 +92,9 @@ public class Monitor
      */
     public synchronized void requestTalk()
     {
+        // wait for the someoneTalking to be false,
+        // i.e. wait for someone to finish talking
+        // then set someoneTalking to true
         while(someoneTalking) {
             try {
                 wait();
@@ -99,6 +109,9 @@ public class Monitor
      */
     public synchronized void endTalk()
     {
+        // set someoneTalking to false,
+        // to give another philosopher a chance
+        // to speak
         someoneTalking = false;
         notifyAll();
     }

@@ -41,11 +41,13 @@ public class DiningPhilosophers
 	{
 		try
 		{
-			/*
-			 * settable from the command line
-			 * or the default if no arguments supplied.
-			 */
 			int iPhilosophers;
+
+			/*
+			 * Parse the command line input
+			 * if a single positive integer >= 3 is provided, the program runs
+			 * else, it terminates, specifying the proper usage
+			 */
 			if (argv.length > 1) {
 				throw new IllegalArgumentException(String.join(" ", argv) + " are not valid inputs");
 			} else if (argv.length == 1) {
@@ -54,6 +56,7 @@ public class DiningPhilosophers
 					iPhilosophers = Integer.parseInt(argv[0]);
 				} catch (Exception e)
 				{
+					System.err.println("ERROR: " + e.getMessage());
 					throw new IllegalArgumentException("\"" + argv[0] +"\" is not a positive decimal integer");
 				}
 			} else {

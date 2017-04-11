@@ -1,0 +1,218 @@
+Dining Philosophers Application has been built.
+java DiningPhilosophers
+Philosopher 1 has started to eat
+4 philosopher(s) came in for a dinner.
+Philosopher 3 has started to eat
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 2 has started to eat
+Philosopher 4 has started to eat
+Philosopher 1 has perfected a thought
+Philosopher 3 has perfected a thought
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 1 has started to eat
+Philosopher 3 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 4 has started to speak
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 has spoken
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 4 has started to eat
+Philosopher 2 has perfected a thought
+Philosopher 2 has started to speak
+Philosopher 2 says: If thee cannot speak, thee must be silent
+Philosopher 2 has spoken
+Philosopher 2 has started to eat
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: My number is 3
+Philosopher 3 has spoken
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 4 has perfected a thought
+Philosopher 4 has started to speak
+Philosopher 4 says: My number is 4
+Philosopher 4 has spoken
+Philosopher 4 has started to eat
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to speak
+Philosopher 1 says: My number is 1
+Philosopher 1 has spoken
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 1 has started to eat
+Philosopher 3 has started to eat
+Philosopher 2 has perfected a thought
+Philosopher 4 has perfected a thought
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 2 has started to eat
+Philosopher 4 has started to eat
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has spoken
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to speak
+Philosopher 1 says: My number is 1
+Philosopher 1 has spoken
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 1 has started to eat
+Philosopher 3 has started to eat
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 4 has perfected a thought
+Philosopher 2 has perfected a thought
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 2 has started to eat
+Philosopher 4 has started to eat
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 3 has spoken
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to speak
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 1 has spoken
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 3 has started to eat
+Philosopher 1 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 4 has started to speak
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 has spoken
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 2 has perfected a thought
+Philosopher 2 has started to speak
+Philosopher 2 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 2 has spoken
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 4 has started to eat
+Philosopher 2 has started to eat
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to speak
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+Philosopher 1 has spoken
+Philosopher 1 has started to eat
+Philosopher 2 has perfected a thought
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: If thee cannot speak, thee must be silent
+Philosopher 3 has spoken
+Philosopher 3 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 2 has started to eat
+Philosopher 4 has started to eat
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 4 has started to speak
+Philosopher 4 says: 2 + 2 = 5 for extremely large values of 2...
+Philosopher 4 has spoken
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 4 has started to eat
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: My number is 3
+Philosopher 3 has spoken
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 3 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 2 has perfected a thought
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to eat
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 4 has started to eat
+Philosopher 2 has started to eat
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 1 has perfected a thought
+Philosopher 1 has started to speak
+Philosopher 1 says: My number is 1
+Philosopher 1 has spoken
+Philosopher 3 has perfected a thought
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 3 has started to eat
+Philosopher 1 has started to eat
+Philosopher 4 has perfected a thought
+Philosopher 4 has started to speak
+Philosopher 4 says: If thee cannot speak, thee must be silent
+Philosopher 4 has spoken
+Philosopher 2 has perfected a thought
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 4 has started to eat
+Philosopher 2 has started to eat
+Philosopher 1 has perfected a thought
+Philosopher 4 has finished eating
+Philosopher 4 has started to think
+Philosopher 4 has perfected a thought
+Philosopher 3 has perfected a thought
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 3 has started to eat
+Philosopher 1 has started to eat
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to eat
+Philosopher 3 has finished eating
+Philosopher 3 has started to think
+Philosopher 1 has finished eating
+Philosopher 1 has started to think
+Philosopher 2 has perfected a thought
+Philosopher 2 has started to eat
+Philosopher 3 has perfected a thought
+Philosopher 3 has started to speak
+Philosopher 3 says: You know, true is false and false is true if you think of it
+Philosopher 3 has spoken
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 1 has perfected a thought
+Philosopher 2 has perfected a thought
+Philosopher 2 has started to eat
+Philosopher 2 has finished eating
+Philosopher 2 has started to think
+Philosopher 2 has perfected a thought
+All philosophers have left. System terminates normally.

@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
  * Class DiningPhilosophers
  * The main starter.
@@ -43,7 +41,8 @@ public class DiningPhilosophers
 	{
 		try
 		{
-			/* settable from the command line
+			/*
+			 * settable from the command line
 			 * or the default if no arguments supplied.
 			 */
 			int iPhilosophers;
